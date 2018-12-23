@@ -6,7 +6,7 @@ import {hours, days, data} from './option3';
 
 /*********************************
 **  author: 陈洪泽
-**  desc: 图标展示数据，使用echarts
+**  desc: 图表展示数据，使用echarts
 *********************************/
 
 class Index extends React.Component{
