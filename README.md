@@ -21,14 +21,13 @@ React、dva、antd、echarts、mockjs、immutable
 > * <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/index-2.png">
 #### Purchase: 采购管理部分
 > * components：通用组件，包括：浮层-更新订单、图片上传预览组件、条目编辑抽屉组件
-<img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/editor.png" width="300">
+> * <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/editor.png" width="300">
 > * PAP_steps: 分布表单的步骤集合
-<img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/step-1.png" width="300">
-<img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/step-2.png" width="300">
+> * <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/step-1.png" width="300">
+> * <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/step-2.png" width="300">
 > * DailyProcurement: 日常采购订单组件
-<img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/purchase-1.png" width="300">
+> * <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/purchase-1.png" width="300">
 > * PurchaseReturnManagement: 退货管理组件
 > * PurchasingAndPurchasingManagement: 进货管理组件
 > * SupplierDocumentInquiry: 供应商单据查询组件
-<img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/modal-1.png" width="300">
-#### Sales 销售管理部分
+> * <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/modal-1.png" width="300">
