@@ -17,8 +17,8 @@ React、dva、antd、echarts、mockjs、immutable
 > * 状态管理： 大量的状态数据存放在dva的model中，部分组件含有不需要和其他组件进行交互的状态，存放在组件state中
 #### index 首页
 > * Index：首页展示组件，使用图表将数据可视化
-<img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/index-1.png">
-<img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/index-2.png">
+> * <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/index-1.png">
+> * <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/index-2.png">
 #### Purchase: 采购管理部分
 > * components：通用组件，包括：浮层-更新订单、图片上传预览组件、条目编辑抽屉组件
 <img src="https://github.com/Chzfly/OrderManagement/blob/master/captures/editor.png" width="300">
