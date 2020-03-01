@@ -25,5 +25,5 @@ app.model(supplierDocumentInquiryModel);
 app.model(sdim_model);
 app.model(staffListModel);
 app.model(indexModel);
-//上树
+//挂载
 app.start("#app");
