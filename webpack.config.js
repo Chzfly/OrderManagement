@@ -7,7 +7,7 @@ module.exports = {
     output : {
         //虚拟打包路径，文件并没有真正生成
         publicPath : "xuni",
-        //文件名，bundle是英语“捆”的意思
+        //文件名
         filename : "bundle.js"
     },
     //外加模块（loader）
