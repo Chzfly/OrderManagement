@@ -28,7 +28,7 @@
     "dva": "^2.4.1",
     "echarts-gl": "^1.1.1",
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mockjs": "^1.0.1-beta3",
     "moment": "^2.23.0",
     "querystring": "^0.2.0",
